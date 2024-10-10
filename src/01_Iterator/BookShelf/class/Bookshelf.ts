@@ -1,5 +1,5 @@
-import { Iterator } from "../interface/Iterator";
-import { Iterable } from "../interface/Iterable";
+import { Iterator } from "../../interface/Iterator";
+import { Iterable } from "../../interface/Iterable";
 import { Book } from "./Book";
 import { BookshelfIterator } from "./BookshelfIterator";
 
