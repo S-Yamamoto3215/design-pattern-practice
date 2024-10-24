@@ -1,4 +1,3 @@
-import { Factory } from "./Factory";
 import { Product } from "./Product";
 import { IDCardFactory } from "./IDCardFactory";
 
